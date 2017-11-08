@@ -1,0 +1,2 @@
+# SimpleCryptoCore
+Work with alphabets
